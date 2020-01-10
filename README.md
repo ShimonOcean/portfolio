@@ -1,2 +1,2 @@
-## Personal Portfolio Site, tempalate from **[simplefolio](https://simplfolio.netlify.com/)**
+## Personal Portfolio Site, template from **[simplefolio](https://simplfolio.netlify.com/)**
 
